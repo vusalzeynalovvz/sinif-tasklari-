@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    position: fixed;
+    padding: 30px 4rem;
+    overflow: auto;
+    width: 90%;
+}
+.logo{
+    float: left;
+}
+.navbar{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+.logo a{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+.navbar a{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem;
+    font-weight: 700;
+    font-size: 1rem;
+}
+.body{
+    text-align: center;
+    color: rgb(255, 255,255);
+    background-image:url("/photo/bg-masthead.jpg");
+    padding: 22.4rem 380px;
+}
+.body h1{
+    font-size: 3rem;
+}
+.body hr{
+
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+    border: #f4623a;
+}
+.body a{
+    color: #fff;
+    background-color: #f4623a;
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem
+    
+
+}
+
