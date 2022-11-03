@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    text-decoration: none;
+}
+.logo img{
+    width:200px;
+}
+
+.header-all{
+    background-color:#fff;
+    padding: 40px 40px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a{
+    margin-right: 90px;
+    color: #000;
+}
+
+.icon i{
+    margin-right: 30px;
+}
+.section-all{
+    background-image: url(/Photos/h3-slider-background.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0px;
+}
+.text{
+    width: 30%;
+    margin-left: 200px;
+   font-size: 30px;
+}
+.text span{
+    color: red;
+    font-weight: 400;
+    font-size: 60px;
+}
